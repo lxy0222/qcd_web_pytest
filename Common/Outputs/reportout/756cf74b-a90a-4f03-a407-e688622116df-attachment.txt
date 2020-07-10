@@ -1,0 +1,16 @@
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//button[text()='登录']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//button[text()='登录']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:149 开始输入文本在('xpath', "//input[@name='phone']")元素中
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//input[@name='phone']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//input[@name='phone']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//input[@name='phone']")元素
+[32mINFO    [0m 'lxy':basepage.py:149 开始输入文本在('xpath', "//input[@name='password']")元素中
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//input[@name='password']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//input[@name='password']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//input[@name='password']")元素
+[32mINFO    [0m 'lxy':basepage.py:127 开始点击('xpath', "//button[text()='登录']")元素
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//button[text()='登录']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//button[text()='登录']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//button[text()='登录']")元素
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//a[contains(text(),'退出')]")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//a[contains(text(),'退出')]")可见，耗时：22秒

@@ -1,0 +1,55 @@
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//button[text()='登录']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//button[text()='登录']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:149 开始输入文本在('xpath', "//input[@name='phone']")元素中
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//input[@name='phone']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//input[@name='phone']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//input[@name='phone']")元素
+[32mINFO    [0m 'lxy':basepage.py:149 开始输入文本在('xpath', "//input[@name='password']")元素中
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//input[@name='password']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//input[@name='password']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//input[@name='password']")元素
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//input[@name='remember_me']")元素
+[32mINFO    [0m 'lxy':basepage.py:127 开始点击('xpath', "//button[text()='登录']")元素
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//button[text()='登录']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//button[text()='登录']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//button[text()='登录']")元素
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//a[contains(text(),'抢投标')]")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//a[contains(text(),'抢投标')]")可见，耗时：21秒
+[32mINFO    [0m 'lxy':basepage.py:127 开始点击('xpath', "//a[contains(text(),'抢投标')]")元素
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//a[contains(text(),'抢投标')]")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//a[contains(text(),'抢投标')]")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//a[contains(text(),'抢投标')]")元素
+[32mINFO    [0m 'lxy':test_invest.py:32 ===========================投资用例：异常场景-非100整倍================================
+[32mINFO    [0m 'lxy':basepage.py:184 开始获取投资-获取用户金额页面页面('xpath', "//input[@class='form-control invest-unit-investinput']")元素的data-amount属性值
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//input[@class='form-control invest-unit-investinput']")元素
+[32mINFO    [0m 'lxy':bid_page.py:17 ！！！！！！！！！开始输入投资金额！！！！！！！！！！
+[32mINFO    [0m 'lxy':basepage.py:149 开始输入文本在('xpath', "//input[@class='form-control invest-unit-investinput']")元素中
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//input[@class='form-control invest-unit-investinput']")元素
+[32mINFO    [0m 'lxy':bid_page.py:21 ！！！！！！！！！开始点击投标按钮！！！！！！！！！！
+[32mINFO    [0m 'lxy':basepage.py:166 开始获取投资-投标按钮页面('xpath', "//button[@class='btn btn-special height_style']")元素文本值
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//button[@class='btn btn-special height_style']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//button[@class='btn btn-special height_style']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//button[@class='btn btn-special height_style']")元素
+[32mINFO    [0m 'lxy':basepage.py:127 开始点击('xpath', "//button[@class='btn btn-special height_style']")元素
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//button[@class='btn btn-special height_style']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//button[@class='btn btn-special height_style']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//button[@class='btn btn-special height_style']")元素
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//div[@class ='text-center']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//div[@class ='text-center']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:166 开始获取投资-获取页面中间错误信息提示内容页面('xpath', "//div[@class ='text-center']")元素文本值
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//div[@class ='text-center']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//div[@class ='text-center']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//div[@class ='text-center']")元素
+[32mINFO    [0m 'lxy':basepage.py:127 开始点击('xpath', "//a[@class='layui-layer-btn0']")元素
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//a[@class='layui-layer-btn0']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//a[@class='layui-layer-btn0']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//a[@class='layui-layer-btn0']")元素
+[32mINFO    [0m 'lxy':basepage.py:184 开始获取投资-获取用户金额页面页面('xpath', "//input[@class='form-control invest-unit-investinput']")元素的data-amount属性值
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//input[@class='form-control invest-unit-investinput']")元素
+[32mINFO    [0m 'lxy':test_invest.py:40 投资异常用例-非100整数倍，断言通过

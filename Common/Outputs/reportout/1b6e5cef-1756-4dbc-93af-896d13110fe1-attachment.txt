@@ -1,0 +1,27 @@
+[32mINFO    [0m 'lxy':test_invest.py:53 ===========================投资用例：异常场景-非10整数倍================================
+[32mINFO    [0m 'lxy':basepage.py:184 开始获取投资-获取用户金额页面页面('xpath', "//input[@class='form-control invest-unit-investinput']")元素的data-amount属性值
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//input[@class='form-control invest-unit-investinput']")元素
+[32mINFO    [0m 'lxy':bid_page.py:17 ！！！！！！！！！开始输入投资金额！！！！！！！！！！
+[32mINFO    [0m 'lxy':basepage.py:149 开始输入文本在('xpath', "//input[@class='form-control invest-unit-investinput']")元素中
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//input[@class='form-control invest-unit-investinput']")元素
+[32mINFO    [0m 'lxy':bid_page.py:21 ！！！！！！！！！开始点击投标按钮！！！！！！！！！！
+[32mINFO    [0m 'lxy':basepage.py:166 开始获取投资-投标按钮页面('xpath', "//button[@class='btn btn-special height_style']")元素文本值
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//button[@class='btn btn-special height_style']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//button[@class='btn btn-special height_style']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//button[@class='btn btn-special height_style']")元素
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:166 开始获取投资-获取投资输入框下按钮文本页面('xpath', "//button[@class='btn btn-special height_style']")元素文本值
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//button[@class='btn btn-special height_style']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//button[@class='btn btn-special height_style']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//button[@class='btn btn-special height_style']")元素
+[32mINFO    [0m 'lxy':basepage.py:184 开始获取投资-获取用户金额页面页面('xpath', "//input[@class='form-control invest-unit-investinput']")元素的data-amount属性值
+[32mINFO    [0m 'lxy':basepage.py:35 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见
+[32mINFO    [0m 'lxy':basepage.py:40 等待元素('xpath', "//input[@class='form-control invest-unit-investinput']")可见，耗时：0秒
+[32mINFO    [0m 'lxy':basepage.py:97 开始查找('xpath', "//input[@class='form-control invest-unit-investinput']")元素
+[31m[1mERROR   [0m 'lxy':test_invest.py:62 投资异常用例-非10整数倍，断言通过
+NoneType: None
